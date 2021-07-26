@@ -1,0 +1,14 @@
+img{
+    width: 500px;
+    height: 250px;
+    image-orientation:center;
+}  
+myslides{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+h1{
+    text-align: center;
+}
